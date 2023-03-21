@@ -5,14 +5,14 @@
  *
  * Description: Prints "_putchar"
  *
- * Return : 0 (success)
+ * Return: 0 (success)
  */
 
 int main(void)
 {
 	char *str;
 	int i;
-	
+
 	str = "_putchar\n";
 	i = 0;
 	while (str[i])
