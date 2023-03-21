@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - Entry point of the programme
@@ -17,7 +17,7 @@ int main(void)
 	i = 0;
 	while (str[i])
 	{
-		putchar(str[i]);
+		_putchar(str[i]);
 		i++;
 	}
 	return (0);
