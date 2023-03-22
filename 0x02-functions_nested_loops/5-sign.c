@@ -5,9 +5,9 @@
  *
  * @n: the number given to check its sign
  *
- * Return: returns 1 if `n` is positive 
+ * Return: returns 1 if `n` is positive
  *         returns 0 if `n` is 0
- *	   returns -1 if `n` is negative 
+ *	   returns -1 if `n` is negative
  */
 
 int print_sign(int n)
